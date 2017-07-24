@@ -1,0 +1,22 @@
+body {
+    background-color: #04A6EB;
+    color:#FDFFFF;
+    width: 500px; /* 【外側の】余白 横幅全体どこまで */
+    margin-right: auto; /* 右側の余白 */
+    margin-left : auto;
+    text-align: center;
+    border: dashed 5px #FDFFFF
+}
+button {
+    padding: 5px 20px; /* 【内側の】余白 */
+    margin-left: 4px;
+    background-color: #337AB7;
+    color: #FDFFFF;
+    border-color: #2E6DA4;
+    border-style: none;
+    box-shadow: 0px 0px 0px 5px lightblue;
+}
+input {
+    height:21px;
+    box-shadow: 0px 0px 0px 5px lightblue;
+}
